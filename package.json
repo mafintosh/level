@@ -1,5 +1,5 @@
 {
-    "name"            : "level"
+    "name"            : "level-prebuilt"
   , "description"     : "Fast & simple storage - a Node.js-style LevelDB wrapper (a convenience package bundling LevelUP & LevelDOWN)"
   , "version"         : "0.18.0"
   , "contributors"    : [
