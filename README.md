@@ -7,7 +7,7 @@ Level
 
 [![Build Status](https://secure.travis-ci.org/jhermsmeier/level-prebuilt.png)](http://travis-ci.org/jhermsmeier/level-prebuilt)
 
-[![NPM](https://nodei.co/npm/level-prebuilt.png?stars&downloads)](https://nodei.co/npm/level-prebuilt/) [![NPM](https://nodei.co/npm-dl/level-prebuilt.png)](https://nodei.co/npm/level-prebuilt/)
+[![NPM](https://nodei.co/npm/level-prebuilt.png?stars&downloads&downloadRank)](https://nodei.co/npm/level-prebuilt/) [![NPM](https://nodei.co/npm-dl/level-prebuilt.png)](https://nodei.co/npm/level-prebuilt/)
 
 
 This is a convenience package that bundles the current release of **[LevelUP](https://github.com/rvagg/node-levelup)** and **[LevelDOWN](https://github.com/rvagg/node-leveldown)** and exposes LevelUP on its export.
@@ -68,10 +68,10 @@ Level, including LevelUP & LevelDOWN, is only possible due to the excellent work
 </tbody></table>
 
 
-<a name="licence"></a>
-Licence &amp; copyright
+<a name="license"></a>
+License &amp; copyright
 -------------------
 
-Copyright (c) 2012-2013 Level contributors (listed above).
+Copyright (c) 2012-2014 Level contributors (listed above).
 
-Level is licensed under an MIT +no-false-attribs license. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.
+Level is licensed under the MIT license. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
