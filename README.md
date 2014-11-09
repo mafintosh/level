@@ -1,5 +1,9 @@
-Level
+level-prebuilt
 =====
+
+**This is the [level](https://www.npmjs.org/package/level) module but using [leveldown-prebuilt](https://www.npmjs.org/package/leveldown-prebuilt) to avoid leveldb compilation at install time**
+
+The original level readme follows:
 
 ![LevelDB Logo](https://twimg0-a.akamaihd.net/profile_images/3360574989/92fc472928b444980408147e5e5db2fa_bigger.png)
 
