@@ -28,7 +28,7 @@
   ],
   "main": "level.js",
   "dependencies": {
-    "leveldown-prebuilt": "0.10.2",
+    "leveldown-prebuilt": "~1.0.3",
     "level-packager": "~0.18.0"
   },
   "devDependencies": {
